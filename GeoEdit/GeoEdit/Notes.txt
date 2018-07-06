@@ -1,0 +1,1 @@
+﻿The Save file can just be a JSON of the object scene.
